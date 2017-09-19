@@ -1,0 +1,56 @@
+body 
+{
+    background-image: url("img/background.jpg");
+    background-size: cover;
+    font-family: Dosis;
+    
+}
+
+header
+{
+    background-color: #fddbab;
+    
+    /*position: relative;*/
+    
+}
+
+.align_center
+{
+    text-align: center;
+}
+
+
+@media only screen and (min-width: 992px) {
+    .align_center
+    {
+        text-align: left;
+    }
+    
+    .push_down img
+    {
+        margin-top: 5%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
