@@ -19,8 +19,14 @@ header
     text-align: center;
 }
 
+.orange
+{
+    background-color: #ffa81b;
+}
 
-@media only screen and (min-width: 992px) {
+
+@media only screen and (min-width: 770px)
+{
     .align_center
     {
         text-align: left;
@@ -29,6 +35,11 @@ header
     .push_down img
     {
         margin-top: 5%;
+    }
+    
+    .orange
+    {
+        background-color: #ffa81b;
     }
 }
 
